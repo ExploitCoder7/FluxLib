@@ -48,6 +48,17 @@ first arg is the label text
 tabname:Line()
 ```
 
+## Creating Buttons
+```lua
+tabname:Button("Name", "Description", function() 
+print("e")
+end) 
+--[[
+first arg is Name
+second arg is Description
+]]
+```
+
 ## Creating Textboxes
 ```lua
 tab:Textbox("TextBox", "Description", true, function(Value) 
