@@ -22,6 +22,7 @@ Flux:Notification("", "Button")
 --[[
 First arg is the text
 second arg is buttons
+]]
 ```
 
 ## Creating Tabs
