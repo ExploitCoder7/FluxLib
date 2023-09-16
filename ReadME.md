@@ -38,7 +38,7 @@ Sadly there's no section...
 ```lua
 tabname:Label("This is just a label.")
 --[[
-first arg is the text label
+first arg is the label text
 ]]
 ```
 
